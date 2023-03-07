@@ -1,0 +1,25 @@
+#title{
+    text-align: center;
+
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
+#author{
+    text-align: left;
+}
+
+header{
+    height: 200px;
+    width: auto;
+    background-image: url("https://i.pinimg.com/564x/d4/99/11/d4991159d846620829fe591f1e01868f.jpg");
+}
+
+#headtitle{
+    color:aliceblue;
+    font-weight: bold;
+    font-size: 50px;
+}
